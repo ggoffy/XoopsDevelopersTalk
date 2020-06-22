@@ -1,8 +1,3 @@
-# XOOPS Developers Talk
-Experiences and examples, which should help developers to understand and to update their modules. 
-
-### for XOOPS 2.5.10+
-
-### for PHP 7.0 +
+# My XOOPS Developers Talk is now available at https://github.com/XoopsDocs/xoops-modules-cookbook/tree/master/en/book/best-practices
 
 
